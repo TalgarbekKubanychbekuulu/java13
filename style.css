@@ -12,14 +12,14 @@
     cursor: pointer;
     padding: 18px;
     width: 100%;
-    text-align: left;1
+    text-align: left;
     border: none;
     outline: none;
     transition: 0.4s;
   }
   
   .active, .asa:hover {
-    background-color: #ccc;
+    background-color: #ccc;11
   }
   
   .pansh1 {
